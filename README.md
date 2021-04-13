@@ -10,3 +10,8 @@ i tinker a lot so that code too will be uploaded in the learning-process-experim
 
 till my next code 
 #####  peace out
+
+Resources other than pytorch's(documentation) -
+abhishek thakur (YT) channel
+search for neptune.ai blog on loss function's 
+Read from machinelearningmastery.com this will also be a major help 
