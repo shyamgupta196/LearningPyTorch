@@ -18,3 +18,7 @@ abhishek thakur (YT) channel
 search for neptune.ai blog on loss function's 
 
 Read from machinelearningmastery.com this will also be a major help 
+
+https://github.com/python-engineer YT Channel is also good
+
+MORE STUFF coming soon
