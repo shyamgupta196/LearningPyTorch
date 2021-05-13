@@ -200,7 +200,7 @@ if TEST:
 
 ## This model reported a accuracy of 97%(on DOGS ONLY) using AlexNet
 ## the Pros of using a pretrained model is clearly seen here
-## date -- 13th April 2021 (thursday)
+## date -- 13th May 2021 (thursday)
 ####ACCURACY AND OTHER THINGS TOO TO BE APPENDED SOON ######
 
 
