@@ -3,10 +3,15 @@ In this TorchDaily we will TRAIN
 A MODEL USING TRANSFER LEARNING
 Cats Vs Dogs Dataset    
 
-EARLIER ACC==14% OR LESS
-NOW ITS 70% AND MORE 
+try1-- ACC==14% and LESS
+try2 -- failed attempt
+try3 -- NOW ITS 70% AND MORE(but only with dogs)
+try4 -- increased the epochs to 10 and lr==0.0001 gave a massive boost in perf.
+'''
+its great now ACC==94% on average and predicts both categories
+'''
 THE POWER OF ALEXNET (PRETRAINED MODELS IS VISIBLE) 
-DATE ==> 10-05-21
+today - DATE ==> 13-05-21
 """
 import torch
 import torch.nn as nn
@@ -395,3 +400,7 @@ if PREDICT:
     for params in alexnet.parameters():
         params.requires_grad == False
     predict(alexnet, 'PetTest/CatTest.jpg')
+    #predicts == cat as output 
+    #the accuracy was tested against the images from 
+    #web also 
+    #and the model was able to predict everything correctly
