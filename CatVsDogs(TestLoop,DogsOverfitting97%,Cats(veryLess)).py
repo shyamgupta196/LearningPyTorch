@@ -4,7 +4,9 @@ A MODEL USING TRANSFER LEARNING
 Cats Vs Dogs Dataset    
 
 EARLIER ACC==14% OR LESS
-NOW ITS 70% AND MORE 
+NOW ITS 70% AND MORE (BUT ONLY FOR DOGS )
+
+### Cats are very poorly classified (IDK WHY but soon i will figure that out)
 THE POWER OF ALEXNET (PRETRAINED MODELS IS VISIBLE) 
 DATE ==> 10-05-21
 """
